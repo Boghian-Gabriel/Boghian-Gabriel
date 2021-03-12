@@ -3,7 +3,7 @@
 <!--
 **Boghian-Gabriel/Boghian-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on SQL Server, VB.NET
 - 🌱 I’m currently learning ASP.NET, Figma , Adobe XD 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: boghiangabriel96@yahoo.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
--->
