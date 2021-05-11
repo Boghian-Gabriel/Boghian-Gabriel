@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on SQL Server, VB.NET
+- 🔭 I’m currently working with SQL Server, VB.NET
 - 🌱 I’m currently learning ASP.NET, Figma , Adobe XD 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
