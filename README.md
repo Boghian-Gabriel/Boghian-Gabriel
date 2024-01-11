@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working with SQL Server, VB.NET and C#
-- 🌱 I’m currently learning ASP.NET, Figma , Adobe XD 
+- 🔭 I’m currently working with SQL Server Database, VB.NET and C#
+- 🌱 I’m currently learning ASP.NET MVC, Figma , Adobe XD 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...
